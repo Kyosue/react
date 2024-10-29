@@ -1,0 +1,10 @@
+{
+    "type": "module",
+    "dependencies": {
+      "express": "^4.x",
+      "cors": "^2.x",
+      "dotenv": "^10.x",
+      "mysql2": "^2.x"
+    }
+  }
+  
